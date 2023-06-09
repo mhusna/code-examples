@@ -25,7 +25,7 @@ namespace EntityFrameworkDemo
 
         private void LoadProducts()
         {
-            _productDal.GetAll();
+           dgvProducts.DataSource = _productDal.GetAll();
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -73,6 +73,16 @@ namespace EntityFrameworkDemo
 
             MessageBox.Show("Product deleted.");
             LoadProducts();
+        }
+
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+            SearchProducts(tbxSearch.Text);
+        }
+
+        private void SearchProducts(string key)
+        {
+            dgvProducts.DataSource = _productDal.GetAllByKey(key);
         }
     }
 }
