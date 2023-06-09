@@ -1,0 +1,16 @@
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\code-examples\code-examples\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\code-examples\code-examples\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
