@@ -1,0 +1,8 @@
+D:\code-examples\code-examples\EventsDemo\bin\Debug\EventsDemo.exe.config
+D:\code-examples\code-examples\EventsDemo\bin\Debug\EventsDemo.exe
+D:\code-examples\code-examples\EventsDemo\bin\Debug\EventsDemo.pdb
+D:\code-examples\code-examples\EventsDemo\obj\Debug\EventsDemo.csproj.AssemblyReference.cache
+D:\code-examples\code-examples\EventsDemo\obj\Debug\EventsDemo.csproj.SuggestedBindingRedirects.cache
+D:\code-examples\code-examples\EventsDemo\obj\Debug\EventsDemo.csproj.CoreCompileInputs.cache
+D:\code-examples\code-examples\EventsDemo\obj\Debug\EventsDemo.exe
+D:\code-examples\code-examples\EventsDemo\obj\Debug\EventsDemo.pdb
