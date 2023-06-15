@@ -1,0 +1,16 @@
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.SuggestedBindingRedirects.cache
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Form1.resources
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\EntityFramework.dll
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\EntityFramework.xml
+D:\code-examples\ProductManagement\ProductManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\code-examples\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
